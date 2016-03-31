@@ -1,0 +1,28 @@
+name: niceice
+favicon: null
+layout_spectrum: 0.6365163533482701
+typography_spectrum: 0.2698927014134824
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15121518564410508
+  lightness: 0.4734837848227471
+  saturation: 0.8900559691246599
+  rhythmicContrast: 0.6446061450988054
+purpose: []
